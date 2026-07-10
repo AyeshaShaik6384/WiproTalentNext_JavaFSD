@@ -1,6 +1,6 @@
-package com.automobile.twowheeler;
+package src.Abstraction.Packages.program3;
 
-import com.automobile.Vehicle;
+//import com.automobile.Vehicle;
 
 public class Hero extends Vehicle {
 

@@ -1,7 +1,7 @@
-package com.automobile.fourwheeler;
+package src.Abstraction.Packages.program4;
 
-import com.automobile.Vehicle;
-
+//import com.automobile.Vehicle;
+import src.Abstraction.Packages.program3.Vehicle;
 public class Logan extends Vehicle {
 
     @Override
