@@ -1,4 +1,4 @@
-package Collections.List.Set.Program2;
+package Collections.Set.Program2;
 
 import java.util.HashSet;
 import java.util.Iterator;

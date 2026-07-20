@@ -1,4 +1,4 @@
-package Collections.List.Set.Program1;
+package Collections.Set.Program1;
 
 import java.util.HashSet;
 

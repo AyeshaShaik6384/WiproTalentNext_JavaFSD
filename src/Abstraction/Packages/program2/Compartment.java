@@ -1,4 +1,4 @@
-package com.wipro.automobile.ship;
+package src.Abstraction.Packages.program2;
 
 public class Compartment {
 

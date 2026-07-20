@@ -1,4 +1,4 @@
-package Collections.List.Set.Program3;
+package Collections.Set.Program3;
 
 import java.util.TreeSet;
 
