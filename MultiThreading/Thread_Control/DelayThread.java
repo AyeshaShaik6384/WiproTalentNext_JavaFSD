@@ -1,0 +1,30 @@
+package MultiThreading.Thread_Control;
+
+class DelayThread extends Thread {
+
+    public void run() {
+
+        try {
+
+            for (int i = 1; i <= 10; i++) {
+
+                System.out.println(i);
+
+                if (i == 5)
+                    Thread.sleep(5000);
+
+            }
+
+        } catch (InterruptedException e) {
+
+            System.out.println(e);
+        }
+    }
+
+    public static void main(String[] args) {
+
+        DelayThread t = new DelayThread();
+
+        t.start();
+    }
+}

@@ -10,18 +10,12 @@ import com.wipro.task.DailyTasks;
 public class TestCheckPresence {
 
     @Test
-    public void testTrue() {
+    public void testPresence() {
 
         DailyTasks obj = new DailyTasks();
 
-        assertTrue(obj.checkPresence("Wipro Technologies", "Tech"));
-    }
+        assertTrue(obj.checkPresence("Hello World", "World"));
 
-    @Test
-    public void testFalse() {
-
-        DailyTasks obj = new DailyTasks();
-
-        assertFalse(obj.checkPresence("Wipro Technologies", "Java"));
+        assertFalse(obj.checkPresence("Hello World", "Java"));
     }
 }

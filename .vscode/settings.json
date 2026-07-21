@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "JUnitLearning"
-    ],
-    "java.project.referencedLibraries": [
-        "JUnitLearning/lib/**/*.jar"
-    ]
-}

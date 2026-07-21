@@ -1,5 +1,7 @@
 package com.wipro.task;
+
 import java.util.Arrays;
+
 public class DailyTasks {
 
     public String doStringConcat(String s1, String s2) {
