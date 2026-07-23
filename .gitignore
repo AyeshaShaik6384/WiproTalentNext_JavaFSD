@@ -4,3 +4,14 @@ out/
 .settings/
 .project
 .classpath
+# Maven
+target/
+
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
