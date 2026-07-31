@@ -1,4 +1,4 @@
-package RDBMS_JDBC_SQL.UsingPreparedSolutionAndProcessingObjects.Problem2;
+package com.wipro.jdbc.RDBMS_JDBC_SQL.UsingPreparedSolutionAndProcessingObjects.Problem2;
 
 import java.sql.Connection;
 

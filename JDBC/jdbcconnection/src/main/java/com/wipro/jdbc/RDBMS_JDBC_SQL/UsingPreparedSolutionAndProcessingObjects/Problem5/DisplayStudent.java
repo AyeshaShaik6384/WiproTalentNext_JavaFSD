@@ -1,4 +1,4 @@
-package RDBMS_JDBC_SQL.UsingPreparedSolutionAndProcessingObjects.Problem5;
+package com.wipro.jdbc.RDBMS_JDBC_SQL.UsingPreparedSolutionAndProcessingObjects.Problem5;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

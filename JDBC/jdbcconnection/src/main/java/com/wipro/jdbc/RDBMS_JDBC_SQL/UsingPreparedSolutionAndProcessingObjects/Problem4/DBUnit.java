@@ -1,4 +1,4 @@
-package RDBMS_JDBC_SQL.UsingPreparedSolutionAndProcessingObjects.Problem4;
+package com.wipro.jdbc.RDBMS_JDBC_SQL.UsingPreparedSolutionAndProcessingObjects.Problem4;
 import java.sql.Connection;
 import java.sql.DriverManager;
 

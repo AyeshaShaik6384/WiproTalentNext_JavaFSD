@@ -1,4 +1,4 @@
-package RDBMS_JDBC_SQL.UsingCallableStatementAndTransactions.Problem1;
+package com.wipro.jdbc.RDBMS_JDBC_SQL.UsingCallableStatementAndTransactions.Problem1;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

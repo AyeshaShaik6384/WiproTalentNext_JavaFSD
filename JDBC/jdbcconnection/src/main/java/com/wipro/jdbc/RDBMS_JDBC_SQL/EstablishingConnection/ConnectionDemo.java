@@ -1,4 +1,4 @@
-package RDBMS_JDBC_SQL.EstablishingConnection;
+package com.wipro.jdbc.RDBMS_JDBC_SQL.EstablishingConnection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

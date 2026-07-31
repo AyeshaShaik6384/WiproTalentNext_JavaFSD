@@ -1,4 +1,4 @@
-package RDBMS_JDBC_SQL.ExecutingQueryAndProcessingResult;
+package com.wipro.jdbc.RDBMS_JDBC_SQL.ExecutingQueryAndProcessingResult;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
